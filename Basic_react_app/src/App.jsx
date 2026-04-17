@@ -1,9 +1,7 @@
-
-import './App.css';
+import ProductTab from "./productTab.jsx";
 
 function App() {
- 
-  return <h1>Hello world!</h1>;
-  }
+  return <ProductTab />;
+}
 
 export default App;
